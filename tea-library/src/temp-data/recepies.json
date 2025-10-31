@@ -1,0 +1,25 @@
+{
+    "recepies": [
+        {
+            "name": "Calm",
+            "ingredients": [
+                "Camomille",
+                "rose petals",
+                "roobos"
+            ],
+            "recepie": [
+                "Camomille 1 tsp",
+                "rose petals 1.5 tsp",
+                "roobos 1 tsp"
+            ],
+            "image": "/images/chamomile.jpg",
+            "properties": [
+                "Anti anxiety",
+                "Sleep"
+            ],
+            "warnings": [
+                "Heart Problems"
+            ]
+        }
+    ]
+}

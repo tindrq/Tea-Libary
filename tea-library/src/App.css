@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+/* Give everything inside this navbar pink text */
+.navbar-custom .nav-link,
+.navbar-custom .dropdown-toggle,
+.navbar-custom .dropdown-item,
+.navbar-custom .navbar-brand {
+  color: rgb(177, 108, 30) !important;
+  transition: color 0.2s ease;
+  text-align: center
+}
+
+/* Hover and active states */
+.navbar-custom .nav-link:hover,
+.navbar-custom .dropdown-toggle:hover,
+.navbar-custom .dropdown-item:hover {
+  color: #000000 !important;
+  text-align: center
+}
+
+div {
+  font-family: 'Courier New', monospace;
+}

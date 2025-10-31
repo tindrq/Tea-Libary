@@ -1,0 +1,88 @@
+{
+    "herbs": [
+        {
+            "herb": "Rose hip",
+            "image": "/images/rosehip.jpg",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "Camomille",
+            "image": "/images/Matricaria_chamomilla.jpg",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "Orange",
+            "image": "/images/orange.png",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "Apple",
+            "image": "/images/apple.jpg",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "Lavender",
+            "image": "/images/lavender.jpg",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "Oat",
+            "image": "/images/oat.jpg",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "Lemon balm",
+            "image": "/images/lemonbalm.jpg",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "Blacberry",
+            "image": "/images/blackberry.jpg",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "Blueberry",
+            "image": "/images/blueberry.jpg",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "Juniper",
+            "image": "/images/En.avif",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "Rapsberry",
+            "image": "/images/Raspberry.jpg",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        },
+        {
+            "herb": "nypon",
+            "image": "/images/nypon.jpeg",
+            "qualeties": [],
+            "store": "",
+            "description": ""
+        }
+    ]
+}
