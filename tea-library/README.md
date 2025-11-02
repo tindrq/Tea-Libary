@@ -18,9 +18,8 @@ Add ui logic and databse for the handeling recepies and complete ingredient func
 
 ### 4. Style forms
 -Complete the website style <br>
--Color sceme <br>
--Fix resizing issues <br>
- 
+-Fix resizing issues on homepage<br>
+
 
 ## Start program
 
